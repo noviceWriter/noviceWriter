@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" width="100%" alt="Ahmet, yazılım geliştirici" />
 
-Masaüstü, mobil ve web tarafında uygulama geliştiriyorum. Gerçek kullanıcıya giden işler yapmayı seviyorum: telekom yazılımından küçük işletme sitelerine, şu an ise kendi ürünüm olan bir çalışan takip sistemine kadar. Günlük işlerimi Linux Mint üzerinde yapıyorum.
+Masaüstü, mobil ve web tarafında uygulama geliştiriyorum. Gerçek kullanıcıya yönelik işler yapmayı seviyorum: telekom yazılımından küçük işletme sitelerine, şu an ise kendi ürünüm olan bir çalışan takip sistemine kadar.
 
 <p>
   <a href="https://cansip.cantelekom.com"><img src="https://img.shields.io/badge/cansip-cantelekom.com-3fb950?style=flat-square&labelColor=161b22" /></a>
